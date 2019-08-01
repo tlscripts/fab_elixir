@@ -2,7 +2,7 @@
 
 As most of you know I love Python's Fabric tool.
 Just fill out your SSH credentials or path to SSH private key and that should about do it.
-My curiosity of Elixir got the better of me. Figure I should automate it since I won't rememeber any of these shell commands
+My curiosity of Elixir got the better of me. Figure I should automate it since I won't rememeber any of these shell commands.
 I think Jerry also wanted learn about Elixir as well.
 This is for you. 
 The comments in the code should be self explanatory.
